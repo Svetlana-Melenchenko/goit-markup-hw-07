@@ -75,6 +75,9 @@
     <symbol id="subscrib-foter" viewBox="0 0 32 32">
       <path fill="#fff" d="m32 2.667-32 15 10.227 3.156L26 8.5 14.002 21.988l.01.003-.012-.003v7.345l5.735-5.576L27 25.999l5-23.333z" style="fill:var(--color1, #fff)"/>
     </symbol>
+	 <symbol id="menu-hamburger" viewBox="0 0 47 32">
+		<path d="M1.34814 20.0431H30.8866M1.34814 10.7354H30.8866M1.34814 1.42773H30.8866" stroke="#2E2F42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+	</symbol>
   </defs>
 </svg>
 	
